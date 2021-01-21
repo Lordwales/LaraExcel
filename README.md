@@ -1,5 +1,5 @@
 # LaraExcel
-This is a laravel 8 mini app to upload excel spreedsheet into your application database and display in your frontend. he mattwebsite/excel package was used to implement the file
+This is a laravel 8 mini app to upload excel spreedsheet into your application database and display in your frontend. The mattwebsite/excel package was used to implement the spreadsheet upload
 
 How to start the App
 -----------
